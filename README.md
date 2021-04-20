@@ -1,5 +1,7 @@
 Project Name : Community-Center-System--SRE-Project(A web based system)
 
+Project Type : Documentation
+
 Course Name : Software Requirement Engineering
 
 Here we have made a documentation with the branches given below:
